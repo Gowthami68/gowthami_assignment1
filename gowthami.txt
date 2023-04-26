@@ -1,0 +1,16 @@
+1.What is Data Science?
+a.Data science is the study of data to extract meaningful insights for business
+
+2.Importance of statistics in Data Science?
+a.It enables you to see trends in any data easily; it enables you to analyze the data effectively; it enables
+ you to reach better and more accurate conclusions
+ 3. What is Data engineering?
+ a. Data engineering is the practice of designing and building systems for collecting, storing,
+ and analyzing data at scale. It is a broad field ..
+ 4.What is Data cleaning?
+ a.Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate
+ , or incomplete data within a datase
+
+ 5.What is python and why we use it?
+  a.Python is a computer programming language often used to build websites and software, automate tasks,
+ and conduct data analysis
